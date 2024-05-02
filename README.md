@@ -2,8 +2,6 @@
 
 **TripAdvisor copy website** made in context of training at [@Le Reacteur](https://github.com/lereacteur) bootcamp.
 
-Repo Front : https://github.com/raphaelba7/tripadvisor-frontend
-
 - [x] **Node JS**
 - [x] **Express**
 - [x] **Frontend** [@Github](https://github.com/raphaelba7/tripadvisor-frontend)
